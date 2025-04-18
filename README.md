@@ -87,9 +87,12 @@ A multi-role, end-to-end household service platform built using **Flask**, **Vue
 ---
 
 ### Setup
-## Frontend
 ```bash
 git clone  https://github.com/INCURSIA/Household_Services_Advance.git
+cd Household_Services_Advance
+```
+## Frontend
+```
 cd frontend
 npm install
 npm run serve
