@@ -97,7 +97,7 @@ npm run serve
 ## Backend
 ```bash
 #open a diffrent terminal to run backend
-pip install -r requirements.txt
+# Download required libraries
 python main.py
 ```
 ## Backend Jobs
